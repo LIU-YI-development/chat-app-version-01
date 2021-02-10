@@ -6,3 +6,6 @@ new user (javascriptmastery   123123)
 
 netlify  
 npm run build
+
+https://app.netlify.com/sites/lets-chat-now/overview
+https://lets-chat-now.netlify.app
